@@ -1,4 +1,4 @@
-#Unscramble App
+Unscramble App
 ===================================
 
 Unscramble is  a single player game app that displays scrambled words. To play the game, player has
