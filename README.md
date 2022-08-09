@@ -1,48 +1,36 @@
-Unscramble App
+#Unscramble App
 ===================================
-
-Starter code for Android Basics codelab - Store the data in a ViewModel
 
 Unscramble is  a single player game app that displays scrambled words. To play the game, player has
 to make a word using all the letters from the displayed scrambled word.
 
-Used in the [Android Basics with Kotlin](https://developer.android
-.com/courses/android-basics-kotlin/course) course.
+<h2>Contents</h2>
 
+This is an android app containing concepts of
+1. Different Types of views and inputs in android
+1. taking user input and processing it to produce a result
+1. Material Components
 
-Pre-requisites
---------------
+## Installation
+Clone this repository and import into **Android Studio**
+```bash
+git clone https://github.com/affi1504/unscramble_app.git
+```
 
-You need to know:
-- Knowledge about Fragments.
-- How to design a layout in ConstraintLayout.
-- Able to write control flow statements (if / else, when statements).
-- Able to update the UI of the app based on user input.
-- Able to add a click listener to a Button.
+<h3>Building by downloading .zip and using Android Studio...</h3>
 
+1. Dowload the .zip file by clicking *Code* -> Download ZIP
+1. Extract the .zip file
+1. Open Android Studio
+1. select *Open*
+1. Select the **unscramble_app** directory.
+1. Ensure the Project gets build and in case the IDE asks to sync *click* **Sync Now**.
+1. Run the App using a Physical device or Emulator
 
-Getting Started
----------------
-
-1. Download and run the app.
-
-License
--------
-
-Copyright (C) 2020 The Android Open Source Project.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-  http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
-
+# Screenshots
+[<img src="screenshots/Screenshot_1.png" align="left"
+width="200" hspace="10" vspace="10">](screenshots/Screenshot_1.png)
+[<img src="screenshots/Screenshot_2.png" align="left"
+width="200" hspace="10" vspace="10">](screenshots/Screenshot_2.png)
+[<img src="screenshots/Screenshot_3.png" align="left"
+width="200" hspace="10" vspace="10">](screenshots/Screenshot_3.png)
